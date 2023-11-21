@@ -1,4 +1,4 @@
-package String;
+package Leetcode.String;
 
 public class NumJewelsInStones {
     public static void main(String[] args) {
